@@ -1,2 +1,2 @@
 # 2019 Deep Learning course
-- it is the lab assignment of NCTU Computer Science Deep Learning course in 107 spring semester
+- It's lab assignments of Deep Learning course in NCTU Computer Science in 107 spring semester
